@@ -1,0 +1,11 @@
+{
+  "extends": "@devworx/repo-config/tsconfig/server.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist"
+  },
+  "ts-node": {
+    "swc": true
+  },
+  "include": ["src/**/*"]
+}

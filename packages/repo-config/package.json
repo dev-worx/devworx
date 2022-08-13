@@ -1,0 +1,8 @@
+{
+  "name": "@devworx/repo-config",
+  "version": "0.1.0",
+  "description": "Repo configurations for devworx project",
+  "files": [
+    "tsconfig/server.json"
+  ]
+}
